@@ -21,7 +21,7 @@ p align="left"> <img src="https://komarev.com/ghpvc/?username=prof-israelcrispim
 
 📫 Como entrar em contato comigo **webdevops.contato@gmail.com**
 
-- 📄 Saiba sobre minhas experiências [https://www.linkedin.com/in/israelcrispim/](https://www.linkedin.com/in/israelcrispim/)
+- 📄 Conheça minhas experiências [https://www.linkedin.com/in/israelcrispim/](https://www.linkedin.com/in/israelcrispim/)
 
 - ⚡ Curiosidade **Está tudo em inglês, mas eu não falo inglês, só sei ler kkk**
 
@@ -39,3 +39,4 @@ p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=prof-israelcrispim&show_icons=true&locale=en" alt="prof-israelcrispim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prof-israelcrispim&" alt="prof-israelcrispim" /></p>
+
