@@ -12,13 +12,13 @@
 
 - 🤝 Estou procurando ajuda com **Desenvolvimento de back-end**
 
-- 👨 💻 Todos os meus projetos estão disponíveis em [https://github.com/Prof-IsraelCrispim](https://github.com/Prof-IsraelCrispim)
+- 👨 💻 Todos os meus projetos estão disponíveis em [https://github.com/Prof-IsraelCrispim](https://github.com/IsraelCrispim)
 
 - 📝 Eu escrevo regularmente artigos sobre [Front End Web Code Parts](Front End Web Code Parts)
 
 - 💬 Pergunte-me sobre **C, C++, PYTHON, JAVA, JAVASCRIPT, REACT, NODE, SASS, HTML, CSS.**-
 
-📫 Como entrar em contato comigo **webdevops.contato@gmail.com**
+📫 Como entrar em contato comigo **dev.israelcrispim@gmail.com**
 
 - 📄 Saiba sobre minhas experiências [https://www.linkedin.com/in/israelcrispim/](https://www.linkedin.com/in/israelcrispim/)
 
