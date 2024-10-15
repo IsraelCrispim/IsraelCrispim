@@ -12,7 +12,7 @@
 
 - 🤝 Estou procurando ajuda com **Desenvolvimento de back-end**
 
-- 👨 💻 Todos os meus projetos estão disponíveis em [https://github.com/Prof-IsraelCrispim](https://github.com/IsraelCrispim)
+- 👨 💻 Todos os meus projetos estão disponíveis em [https://github.com/IsraelCrispim](https://github.com/IsraelCrispim)
 
 - 📝 Eu escrevo regularmente artigos sobre [Front End Web Code Parts](Front End Web Code Parts)
 
